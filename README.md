@@ -13,7 +13,7 @@ RESTful Web Services para la evidencia del curso "Computación avanzada en Java 
 
 ## Créditos
 Desarrollado por:
-- **2686599** David Elí Servín Peña
+- **2665786** Braulio Vazquez Sarracino
 
 ## Licencia
 El código está disponible bajo la licencia **GNU GPL-3.0**. Consulte el archivo LICENSE en la raíz del proyecto para más información.
