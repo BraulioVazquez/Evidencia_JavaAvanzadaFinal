@@ -1,5 +1,5 @@
 ## CS13304 - Computación Avanzada en Java
-- Por: Jose Manuel Lopez Lujan, MIT
+- Por: Braulio Vazquez Sarracino
 
 ### CS13304T12 - RESTful Web Services
  
